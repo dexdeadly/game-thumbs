@@ -62,3 +62,14 @@ HIGHLIGHTS.md
 .dolt/
 *.db
 .beads-credential-key
+
+# Local AI-agent / issue-tracker files (never committed)
+.beads/
+.beads-credential-key
+.dolt/
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.agents/
+.codex/
